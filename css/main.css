@@ -86,7 +86,7 @@ main {
 @media screen and (min-width: 40em){ 
   .navigation li:first-child img {
     height: 80px;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 }
 
